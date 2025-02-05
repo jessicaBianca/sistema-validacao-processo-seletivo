@@ -1,4 +1,4 @@
-package dio.edu.processoseletivo;
+package dio.edu.controlefluxo;
 
 public class ParametrosInvalidosException extends Exception {
 
